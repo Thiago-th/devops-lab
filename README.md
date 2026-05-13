@@ -29,11 +29,15 @@ devops-lab/
 ├── aws/
 ├── cicd/
 └── monitoring/
+```
+
+---
 
 ## Progresso
 
 - Linux
 - Git/GitHub
 
-## 
+## Autor
+
 Thiago Santos
