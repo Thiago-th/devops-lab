@@ -1,2 +1,39 @@
-# devops-lab
+# DevOps Lab 🚀
+
 My hands-on DevOps study lab: Linux, Git, Docker, Kubernetes, CI/CD, Cloud and Infrastructure as Code.
+
+Este repositório reúne meus estudos, laboratórios, scripts e anotações enquanto evoluo em tecnologias e práticas de DevOps.
+
+---
+
+## Objetivo
+
+Documentar minha evolução prática em DevOps através de:
+
+- estudos teóricos
+- exercícios práticos
+- automações
+- projetos hands-on
+
+---
+
+## Estrutura do Repositório
+
+```text
+devops-lab/
+├── linux/
+├── git/
+├── docker/
+├── kubernetes/
+├── terraform/
+├── aws/
+├── cicd/
+└── monitoring/
+
+## Progresso
+
+- Linux
+- Git/GitHub
+
+## 
+Thiago Santos
