@@ -40,7 +40,7 @@ devops-lab/
 
 ## Autor
 
-Thiago Santos
+Thiago Santos  
 Aspiring DevOps Engineer | Linux, Git/GitHub | Hands-on labs in Linux
 
 [GitHub](https://github.com/Thiago-th) | [LinkedIn](https://www.linkedin.com/in/thiagomatheus7) | Email: thiagomatheus741@gmail.com
