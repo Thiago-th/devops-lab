@@ -1,6 +1,6 @@
 #!/bin/bash
 site="www.google.com"
-
+netstat -ntaplu
 tem_rede() {
 ping -c 1 "$site" > /dev/null 2>&1
 rede=$?
