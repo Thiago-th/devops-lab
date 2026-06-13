@@ -1,3 +1,5 @@
 services:
   app_nginx:
     image: nginx
+    ports:
+      - "8080:80"
