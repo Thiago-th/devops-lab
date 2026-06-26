@@ -1,5 +1,19 @@
+name: lab-teste
+
 services:
-  app_nginx:
+  nginx:
     image: nginx
     ports:
       - "8080:80"
+
+  postgres:
+    image: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql
+
+volumes:
+  postgres_data:
